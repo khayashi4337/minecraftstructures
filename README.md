@@ -3,7 +3,7 @@ The purpose of this project is to share building data stored in the Minecraft st
 
 # Usage (WIP)
 
-git clone yyy
+git clone https://github.com/khayashi4337/minecraftstructures.git
 
 xxx init username
 xxx import worldname Overwrites the data of the generated structure from the active micra.
